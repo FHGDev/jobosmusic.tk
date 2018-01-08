@@ -14,3 +14,8 @@ body {
   background-image: url('http://imgc.allpostersimages.com/img/print/marsani-gethsemane_u-L-E5Q7U0.jpg');
   background-size: cover;
 }
+
+a {
+  color: white;
+  font-size: 30px;
+}
